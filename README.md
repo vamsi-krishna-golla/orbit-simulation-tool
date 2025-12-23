@@ -1,5 +1,10 @@
-# universal-simulation-tool
-A simulation project based on current best scientific theories.
-It allows changing conditions and observing how systems behave according to their underlying rules.
+# Universal Simulation Tool
 
-The project contains small, independent simulations (e.g. solar system, trees, rivers), focused on consequences rather than visual realism.
+A simulation project based on current best scientific theories.  
+It allows changing conditions and observing how systems behave under those rules.
+
+“Universal” is used in the context of relying on current best explanations which themselves have universality.
+
+The project contains small, independent simulations (e.g. solar system, trees, rivers etc), focused on consequences rather than visual realism.
+
+Early stage. Focused on correctness and simplicity.
