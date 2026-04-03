@@ -1,8 +1,8 @@
-# Universal Simulation Tool
+#  Simulation Tool
 
 ## What this project is
 
-**Universal Simulation Tool** is an explanation-first simulation framework that treats physical laws as *executable ideas*, not just equations.
+** Simulation Tool** is an explanation-first simulation framework that treats physical laws as *executable ideas*, not just equations.
 
 Instead of focusing on visual realism or performance, the project focuses on **what assumptions a simulation makes**, **which physical laws it preserves**, and **how those choices shape the resulting "universe."**
 
